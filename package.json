@@ -1,0 +1,23 @@
+{
+  "name": "naya-e2e-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open --e2e --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marycodes92/Naya-test-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marycodes92/Naya-test-project/issues"
+  },
+  "homepage": "https://github.com/marycodes92/Naya-test-project#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
