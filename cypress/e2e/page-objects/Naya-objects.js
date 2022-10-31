@@ -17,7 +17,7 @@ export class Naya {
     }
 
     viewProject(){
-        cy.get(':nth-child(1) > .card > .row').click();
+        cy.get(':nth-child(1) > .card > .row > .col-sm-6 > .login-button').click();
         // cy.get(':nth-child(1) > .card > .row > .col-sm-6 > .login-button').trigger()
     }
 }

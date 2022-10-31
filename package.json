@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/marycodes92/Naya-test-project#readme",
   "devDependencies": {
+    "@cypress/snapshot": "^2.1.7",
     "cypress": "^10.11.0"
   }
 }
