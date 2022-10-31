@@ -1,1 +1,0 @@
-# Naya-test-project
