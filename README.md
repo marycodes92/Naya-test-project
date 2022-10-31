@@ -1,1 +1,1 @@
-# Naya-test-project
+# Naya-e2e-test-project
